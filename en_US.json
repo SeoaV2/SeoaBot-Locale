@@ -1,0 +1,9 @@
+{
+	"commands": {
+		"customstat": {
+			"delete": {
+				"cannotfind": "Cannot find the bot custom status data."
+			}
+		}
+	}
+}

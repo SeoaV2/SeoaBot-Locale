@@ -3,7 +3,53 @@
 		"customstat": {
 			"delete": {
 				"cannotfind": "Cannot find the bot custom status data."
+			},
+			"add": "Added custom status.",
+			"list": {
+				"result": "Custom status added by %1$s:```\n%2$s```"
+			},
+			"usage": {
+				"all": "Usage:```\n%1$s%2$s <add/추가/list/리스트/delete/삭제> [...]\n```",
+				"add": "Usage:```\n%1$s%2$s %3$s <content: string>\n```"
 			}
+		},
+		"botinfo": {
+			"title": "Information of **Seoa**",
+			"content": {
+				"discordTag": "Discord Tag",
+				"commands": "Commands",
+				"aliases": "Command Aliases",
+				"servers": "Servers which I joined",
+				"channels": "Channels that I can see",
+				"users": "Users that I can recognize",
+				"createdAt": "Seoa is created at...",
+				"readyAt": "Seoa is running since..."
+			}
+		},
+		"invite": {
+			"msg": "You can invite **SeoaBot** with this link: \n%1$s"
+		},
+		"ping": {
+			"pinging": "Pinging...",
+			"websocketPing": "WebSocket: %1$sms",
+			"msgPing": "Message: %1$sms"
+		},
+		"reload": {
+			"usage": "Usage:```\n%1$sreload <command>\n```",
+			"reloaded": "Reloaded `%1$s` command.",
+			"cannotfind": "Cannot find command `%1$s`."
+		},
+		"load": {
+			"usage": "Usage: ```\n%1$sload <command>\n```"
+		},
+		"unload": {
+			"unloaded": "Unloaded `%1$s` command.",
+			"cannotfind": "Cannot find command `%1$s`.",
+			"usage": "Usage: ```\n%1$sunload <command>\n```"
 		}
+	},
+	"common": {
+		"unknownUser": "Unknown User",
+		"everyone": "everyone"
 	}
 }

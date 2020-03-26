@@ -37,15 +37,28 @@
 		"reload": {
 			"usage": "Usage:```\n%1$sreload <command>\n```",
 			"reloaded": "Reloaded `%1$s` command.",
-			"cannotfind": "Cannot find command `%1$s`."
+			"cannotfind": "Cannot find command `%1$s`.",
+			"error": "An error occured while reloading the command: ```\n%1$s\n```"
 		},
 		"load": {
-			"usage": "Usage: ```\n%1$sload <command>\n```"
+			"usage": "Usage: ```\n%1$sload <command>\n```",
+			"added": "Loaded `%1$s` command.",
+			"cannotfind": "Cannot find Command `%1$s`.",
+			"error": "An Error occured when loading the command: ```\n%1$s\n```"
 		},
 		"unload": {
 			"unloaded": "Unloaded `%1$s` command.",
 			"cannotfind": "Cannot find command `%1$s`.",
-			"usage": "Usage: ```\n%1$sunload <command>\n```"
+			"usage": "Usage: ```\n%1$sunload <command>\n```",
+			"error": "An Error occured while unloading the command: ```\n%1$s\n```"
+		},
+		"register": {
+			"ask": "If you register the server, you agree to providing this server's information to SeoaBot's database.\nDo you agree?",
+			"reactFail": "Failed to add reaction. Please type your response.",
+			"yes": "Registered the server! You can now use the many feature of SeoaBot!",
+			"no": "Server registration cancelled.",
+			"timeOut": "Response timed out.",
+			"alreadyRegistered": "This server is already registered."
 		}
 	},
 	"common": {

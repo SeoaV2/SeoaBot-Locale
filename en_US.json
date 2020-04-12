@@ -59,6 +59,12 @@
 			"no": "Server registration cancelled.",
 			"timeOut": "Response timed out.",
 			"alreadyRegistered": "This server is already registered."
+		},
+		"codequiz": {
+			"cannotfind": "Cannot find Quiz #%1$s",
+			"quiztitle": "Q%1$s. about %2$s",
+			"incorrect": "Incorrect!",
+			"correct": "Correct! Earned %1$s Score!"
 		}
 	},
 	"common": {

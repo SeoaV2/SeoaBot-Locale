@@ -68,8 +68,7 @@
 			"timeup": "Time Over! (20s)",
 			"issue": "[`Quiz Request, Report`](%1$s)",
 			"leaderboard": {
-				"title": "Code Quiz Leaderboard",
-				"item": "%1$s%2$s: %3$s (%4$s score)\n"
+				"title": "Code Quiz Leaderboard"
 			}
 		}
 	},

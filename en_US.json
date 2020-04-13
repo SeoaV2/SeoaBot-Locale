@@ -70,5 +70,13 @@
 	"common": {
 		"unknownUser": "Unknown User",
 		"everyone": "everyone"
+	},
+	"command": {
+		"codequiz": {
+			"leaderboard": {
+				"title": "Code Quiz Leaderboard",
+				"item": "%1$s%2$s: %3$s (%4$s score)\n"
+			}
+		}
 	}
 }

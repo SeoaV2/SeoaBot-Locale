@@ -64,19 +64,17 @@
 			"cannotfind": "Cannot find Quiz #%1$s",
 			"quiztitle": "Q%1$s. about %2$s",
 			"incorrect": "Incorrect!",
-			"correct": "Correct! Earned %1$s Score!"
-		}
-	},
-	"common": {
-		"unknownUser": "Unknown User",
-		"everyone": "everyone"
-	},
-	"command": {
-		"codequiz": {
+			"correct": "Correct! Earned %1$s Score!",
+			"timeup": "Time Over! (20s)",
+			"issue": "[`Quiz Request, Report`](%1$s)",
 			"leaderboard": {
 				"title": "Code Quiz Leaderboard",
 				"item": "%1$s%2$s: %3$s (%4$s score)\n"
 			}
 		}
+	},
+	"common": {
+		"unknownUser": "Unknown User",
+		"everyone": "everyone"
 	}
 }
